@@ -1,7 +1,6 @@
 # Bipedal Robot Project
 
 
-![Bipedal Robot Image](img/bipedal-img2.png)
 ![Bipedal Robot Image](img/bipedal-img3.png)
 
 *Inspired by the Westwood Robotics Bruce robot, featuring spherical hip joints.*
