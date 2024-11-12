@@ -23,12 +23,13 @@ This project involves the development of a bipedal robot inspired by Westwood Ro
 - **Spherical Hip Joints**: Inspired by the Bruce robot, the hip joints add complexity to the simulation and are a focal point for achieving realistic motion.
 
 ## Development Plan
-1. **Platform Familiarization**: Continue gaining experience with Gazebo to perform basic movement and balance testing.
-2. **Closed-Loop Workarounds**: Experiment with SDF to integrate the closed-loop kinematics.
-3. **Simulation Refinement**: Once the robot’s basic movements are simulated successfully, explore more sophisticated simulations in Isaac Sim to enhance realism.
-4. **Reinforcement Learning Integration**: Implement RL algorithms like PPO (Proximal Policy Optimization) to train the robot in achieving stable, human-like walking.
+1. **Workspace Re-organizing**: install Ubuntu 22.04 and configure my laptop to dual boot Windows and Ubuntu optimized PC resources.
+2. **Platform Familiarization**: Continue gaining experience with Gazebo to perform basic movement and balance testing.
+3. **Closed-Loop Workarounds**: Experiment with SDF to integrate the closed-loop kinematics.
+4. **Simulation Refinement**: Once the robot’s basic movements are simulated successfully, explore more sophisticated simulations in Isaac Sim to enhance realism.
+5. **Reinforcement Learning Integration**: Implement RL algorithms like PPO (Proximal Policy Optimization) to train the robot in achieving stable, human-like walking.
 
 ## Future Directions
-- Transition to Isaac Sim to leverage NVIDIA’s advanced physics and GPU capabilities.
+- Transition to Isaac Sim on a GCP VM to leverage NVIDIA’s advanced physics and GPU capabilities.
 - Explore adding foot contact sensors and IMUs for feedback-driven training.
 - Integrate real-time control algorithms to improve stability and responsiveness.
